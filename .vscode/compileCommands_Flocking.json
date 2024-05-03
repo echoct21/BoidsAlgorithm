@@ -1,0 +1,74 @@
+[
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/Agent.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/Agent.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/Flocking.Build.cs",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/Flocking.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/Flocking.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/FlockingGameModeBase.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/FlockingGameModeBase.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/FlockingManager.cpp",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	},
+	{
+		"file": "/Users/Owen/Documents/Unreal Projects/Flocking/Source/Flocking/FlockingManager.h",
+		"arguments": [
+			"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/Owen/Documents/Unreal Projects/Flocking/.vscode/compileCommands_Flocking/Flocking.1.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.3/Engine/Source"
+	}
+]
